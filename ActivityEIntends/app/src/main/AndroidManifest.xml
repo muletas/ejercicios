@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gestorclientes.dm2.activityeintends" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Ejer1.Ejercicio1"
+            android:label="@string/title_activity_ejercicio1" />
+        <activity
+            android:name=".Ejer1.Ejercicio1_validar"
+            android:label="@string/title_activity_ejercicio1_validar" >
+        </activity>
+        <activity
+            android:name=".Ejer2.Ejercicio2"
+            android:label="@string/title_activity_ejercicio2" >
+        </activity>
+        <activity
+            android:name=".Ejer2.Ejercicio2_validar"
+            android:label="@string/title_activity_ejercicio2_validar" >
+        </activity>
+        <activity
+            android:name=".Ejer3.Ejercicio3"
+            android:label="@string/title_activity_ejercicio3" >
+        </activity>
+        <activity
+            android:name=".Ejer3.Ejercicio3_validar"
+            android:label="@string/title_activity_ejercicio3_validar" >
+        </activity>
+        <activity
+            android:name=".Ejer4.Ejercicio4"
+            android:label="@string/title_activity_ejercicio4" >
+        </activity>
+        <activity
+            android:name=".Ejer4.Ejercicio4_validar"
+            android:label="@string/title_activity_ejercicio4_validar" >
+        </activity>
+        <activity
+            android:name=".Ejer5.Ejercicio5"
+            android:label="@string/title_activity_ejercicio5" >
+        </activity>
+        <activity
+            android:name=".Ejer5.Ejercicio5_validar"
+            android:label="@string/title_activity_ejercicio5_validar" >
+        </activity>
+    </application>
+
+</manifest>

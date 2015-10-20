@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- STRING GENERAL-->
+    <string name="action_settings">Ajustes</string>
+    <string name="b_volver_menu">VOLVER AL MENU</string>
+
+    <!-- STRING MENU-->
+    <string name="app_name">Actividades-Pantallas</string>
+    <string name="e_ejer1">EJERCICIO 1</string>
+    <string name="e_ejer2">EJERCICIO 2</string>
+    <string name="e_ejer3">EJERCICIO 3</string>
+    <string name="e_ejer4">EJERCICIO 4</string>
+    <string name="e_ejer5">EJERCICIO 5</string>
+    <string name="e_salir">SALIR</string>
+
+    <!-- STRING EJERCICIO 1-->
+    <string name="title_activity_ejercicio1">Nombre-Apellidos</string>
+    <string name="ejer1_int_nom">Introduce tu nombre</string>
+    <string name="ejer1_int_apell">Introduce tu apellido</string>
+    <string name="ejer1_b_validar">VALIDAR</string>
+
+    <string name="title_activity_ejercicio1_validar">ValidarNombreApellido</string>
+    <string name="ejer1_str_aceptas">¿Aceptas las condiciones? </string>
+    <string name="ejer1_b_aceptar">ACEPTAR</string>
+    <string name="ejer1_b_rechazar">RECHAZAR</string>
+
+    <!-- STRING EJERCICIO 2-->
+    <string name="title_activity_ejercicio2">Datos de Acceso</string>
+    <string name="ejer2_tit_intro">Introduce tus datos de acceso</string>
+    <string name="ejer2_tit_usuario">Usuario</string>
+    <string name="ejer2_tit_password">Password</string>
+    <string name="title_activity_ejercicio2_validar">Ejercicio2_validar</string>
+
+    <!-- STRING EJERCICIO 3-->
+    <string name="title_activity_ejercicio3">Ejercicio3</string>
+    <string name="title_activity_ejercicio3_validar">Ejercicio3_validar</string>
+    <string name="title_activity_ejercicio4">Ejercicio4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ejercicio4_validar">Ejercicio4_validar</string>
+    <string name="title_activity_ejercicio5">Ejercicio5</string>
+    <string name="title_activity_ejercicio5_validar">Ejercicio5_validar</string>
+
+</resources>
